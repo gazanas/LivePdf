@@ -27,7 +27,7 @@ Now from a command line navigate to the app directory and run:
 php server.php
 ```
 
-and that's it. Now just navigate to http://myhost/web/ on your browser from two different machines and change pages from the one that the webserver runs on.
+and that's it. Now just navigate to http://examplemyhost/web/ on your browser from two different machines and change pages from the one that the webserver runs on.
 
 The page changes of the pdf are only transmited by clients on the machine that runs the websocket server.
 All other clients can change the pages on the pdf but these changes won't be transmitted to any other client.
