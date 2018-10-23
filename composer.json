@@ -1,0 +1,17 @@
+{
+    "name": "gazanas/livepdf",
+    "authors": [
+        {
+            "name": "Gaziotis Anastasios",
+            "email": "anastasios.gaziotis@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
