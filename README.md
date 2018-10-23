@@ -16,7 +16,7 @@ Change the settings on the settings.txt file.
 Settings file example:
 
 ```
-host => 192.168.*.*
+host => 192.168.1.5
 port => 8282
 pdf => test.pdf
 ```
